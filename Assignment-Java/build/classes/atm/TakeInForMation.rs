@@ -1,0 +1,2 @@
+atm.passWord
+atm.TakeInForMation
