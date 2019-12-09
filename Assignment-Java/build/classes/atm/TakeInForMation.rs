@@ -1,2 +1,0 @@
-atm.passWord
-atm.TakeInForMation

@@ -1,2 +1,0 @@
-atm.Transfer
-atm.taikhoannhan
